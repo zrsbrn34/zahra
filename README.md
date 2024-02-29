@@ -1,5 +1,6 @@
-# ukk_kasir
-# ukk_kasir_zahra
-# ukk_kasir_zahra
-# ukk_kasir
-# ukk_kasir
+Administrator
+Username : admin
+Password : admin
+Petugas
+USername : petugas
+Password : petugas
