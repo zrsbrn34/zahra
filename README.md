@@ -1,11 +1,11 @@
 Administrator
 
-  Username : admin
+  ->Username : admin
 
-  Password : admin
+  ->Password : admin
 
 Petugas
 
-  Username : petugas
+  ->Username : petugas
 
-  Password : petugas
+  ->Password : petugas
